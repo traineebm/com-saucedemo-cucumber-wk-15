@@ -13,4 +13,4 @@ Feature: Search functionality
     And   I enter details first name "firstname", last name "lastname" and zipPostalCode "postcode"
     And   I click on continue button
     And   I click on finish button
-    Then  I should be able to see message 'THANK YOU FOR YOUR ORDER'
+    Then  I should be able to see message 'THANK YOU FOR YOUR ORDer-test'
